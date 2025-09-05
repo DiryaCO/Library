@@ -1,2 +1,0 @@
-# Library
-Dirya Library
